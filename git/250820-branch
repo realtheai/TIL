@@ -1,0 +1,24 @@
+
+## Shell Command
+
+```python
+- pwd 현재 위치 출력
+- ls 디렉토리 안에는 뭐있지?
+- ls -l 상세 파일 볼 때
+- ls -al 숨김파일까지 보여줌
+- cd 디렉토리 이름 디렉토리로 이동
+- cd .. 상위 디렉토리로 감
+- mkdir 폴더 이름 폴더 생성
+- touch 파일 이름 파일 생성
+- mv main.c gugudan.c 이름 바꾸기
+- rm 파일 이름 파일 삭제
+- rmdir 디렉토리 삭제
+```
+## Vim Command
+- i insert
+- esc 키 누룬 후 :wq 는 저장, :q! 저장안하고 나감
+- cat  파일 보기
+
+
+
+
